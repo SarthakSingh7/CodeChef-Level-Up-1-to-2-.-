@@ -1,1 +1,3 @@
-MXEVNSUB  in Basic Programming Concepts
+in Basic Programming Concepts
+MXEVNSUB
+MAX_DIFF
